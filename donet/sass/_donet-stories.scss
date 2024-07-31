@@ -1,0 +1,25 @@
+/*cardhover section start*/
+.cardhover{
+    background-color: aliceblue;
+    .stories{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        h1{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 28px;
+            font-weight: bold;
+        }
+    }
+    .custom_card{
+        text-align: left;
+        h4{
+            background-color: aquamarine;
+        }
+    }
+    .card:hover{
+        background-color: rgb(15, 87, 15);
+        color: aliceblue;
+    }
+}
+
+/*cardhover section end*/

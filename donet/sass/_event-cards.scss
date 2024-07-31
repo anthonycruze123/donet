@@ -1,0 +1,25 @@
+/*Events card start*/
+.Events_card{
+    background-color: rgb(233 231 231);
+    padding: 20px 0px 20px;
+    .custom_eventstext{
+        text-align: center;
+    }
+    .donet_card{
+        margin: 3px;
+        border-radius: 20px;
+        width: 90%;
+        height: 250px;
+        .text_event{
+            font-size: 20px;
+        }
+        .dollar-text{
+            font-size: 13px;
+            color: aqua;
+        }
+        .card_statement{
+            font-size: 15px;
+        }
+    }
+}
+/*Events card end*/

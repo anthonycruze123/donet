@@ -1,0 +1,16 @@
+/*search box start*/
+.search{
+    background-image: url(../asset/images/from.jpg);
+    background-size:cover;
+    padding: 95px;
+    .form_inline{
+        text-align: center;
+        display: flex;
+        .form-control {
+            margin-left: 30%;
+            width: 35%;
+        }
+        }
+}
+
+/*search box end*/

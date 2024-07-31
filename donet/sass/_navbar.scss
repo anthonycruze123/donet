@@ -1,0 +1,74 @@
+//donet navbar section start//
+      #donet_header{
+         background-image: url(../asset/images/Donate.jpg);
+         background-repeat: no-repeat;
+         background-position: 85%;
+         background-size: 45% 110%;
+         background-attachment: scroll;
+         margin-bottom: 20px;
+         .donet_navbar{
+            text-decoration: none;
+            .logo_icon{ 
+               color: #000;
+               font-size: 20px;
+               font-weight: 600;
+               line-height: 1.5;
+            }
+            .donet_list{
+               margin-left:10%;
+               li{
+                  list-style-type: none;
+                  a{
+                     text-decoration: none;
+                     text-transform: capitalize;
+                     color: #000;
+                     line-height: 1.5;
+                     font-weight: bold;
+                     padding-left:30px;
+                  }
+                  a:hover{
+                     color: aqua;
+                  }
+               }
+            }
+            .donet_link{
+               text-decoration: none;
+               margin-right: 15%;
+               a{
+                  text-decoration: none;
+                  color: #fff;
+                  background-color: green;
+                  padding: 5px 10px 8px;
+                  border-radius: 15px;
+                  font-size: 14px;
+              }
+               }
+            }
+            .child_heading{
+               padding: 80px 0px 0px;
+               h1{
+                  font-size: 90px;
+                  font-family: sans-serif;
+                  font-weight: bold;
+                  line-height: 1.0;
+                  text-transform: capitalize;
+               }
+            }
+            .child_heading2{
+               margin-left: 5%;
+               padding-bottom: 20px;
+            }
+            .donet_link2{
+               margin-left: 5%;
+               a{
+                  padding: 10px;
+                  color: white;
+                  border-radius: 20px;
+                  text-align: center;
+                  background-color: forestgreen;
+                  text-decoration: none;
+                  text-transform: capitalize;
+               }
+            }
+         }
+//donet navbar section end//

@@ -1,0 +1,81 @@
+.donet_volant{
+    position: relative;
+    padding: 40px 0px 30px;
+    background-color: bisque;
+    .custom_volant{
+        text-align: center;
+        padding: 15px 0px 30px;
+    }
+    .custom_iconslick{
+       
+      display: flex;
+      background-color: white;
+      padding: 40px;
+      border-radius: 25px;
+     
+      img{
+        width: 50px;
+        height: 40px;
+      }
+      .volun-text{
+      
+        padding-bottom: 20px;
+        h1{
+             font-size: 17px;
+            font-weight: bold;
+            padding-left: 15px;
+        }
+        h5{
+            color: aqua;
+            font-size: 14px;
+            text-transform: capitalize;
+            text-align: center;
+        }
+      }
+    }
+    .volun-social{
+        position: absolute;
+        display: block;
+        top: 75%;
+        left: 21%;
+    }
+        .volun-social_2{
+        position: absolute;
+        display: block;
+        top: 75%;
+        left: 39%;
+    }
+        .volun-social_3{
+        position: absolute;
+        display: block;
+        top: 75%;
+        left: 56%;
+    }
+        .volun-social_4{
+        position: absolute;
+        display: block;
+        top: 75%;
+        left: 73%;
+        margin-left: 5px;
+    }
+    .volun-social a{
+        margin: 2px;
+        font-size: x-large;
+        color: black;
+    }
+    .volun-social_2 a{
+        margin: 2px;
+        font-size: x-large;
+        color: black;
+    }
+    .volun-social_3 a{
+        margin: 2px;
+        font-size: x-large;
+        color: black;
+    }
+    .volun-social_4 a{
+        margin: 2px;
+        font-size: x-large;
+        color: black;
+    }
+}

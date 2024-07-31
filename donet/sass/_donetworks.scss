@@ -1,0 +1,30 @@
+/*donet_works cardslick start*/
+.cardslick{
+    background-color: rgba(219, 220, 221, 0.801);
+    padding-bottom: 30px;
+}
+.info_text{
+    text-align: center;
+    padding: 20px 0px 0px;
+}
+.info_text h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.custom_banar_img{
+    border-bottom: 5px solid rgb(0, 255, 179);
+    position: relative;
+}
+.custom_logo_img{
+    position: absolute;
+    padding: 230px 0px 0px 175px;
+}
+.custom_card_body h6{
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:12px;
+    font-weight: bold;
+    color: #209204;
+}
+/*cardslick end*/
